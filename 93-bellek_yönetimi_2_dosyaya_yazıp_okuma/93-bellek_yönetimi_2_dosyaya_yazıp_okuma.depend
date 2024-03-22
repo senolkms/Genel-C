@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1693832467 source:c:\users\senol\desktop\c\93-bellek_yönetimi_2_dosyaya_yazýp_okuma\main.c
+	<stdio.h>
+	<stdlib.h>
+

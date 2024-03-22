@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1690556432 source:c:\users\senol\desktop\dsa\deneme\main.c
+	<stdio.h>
+	<stdlib.h>
+

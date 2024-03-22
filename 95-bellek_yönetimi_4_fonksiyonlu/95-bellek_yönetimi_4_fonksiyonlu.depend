@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1693835150 source:c:\users\senol\desktop\c\95-bellek_yönetimi_4_fonksiyonlu\main.c
+	<stdio.h>
+	<stdlib.h>
+

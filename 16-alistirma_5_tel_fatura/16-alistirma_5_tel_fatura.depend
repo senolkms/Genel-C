@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1691873690 source:c:\users\senol\desktop\c\16-alistirma_5_tel_fatura\main.c
+	<stdio.h>
+	<stdlib.h>
+

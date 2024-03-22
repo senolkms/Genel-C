@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1693830443 source:c:\users\senol\desktop\c\92-bellek_yönetimi_1_rastgele_sayi\main.c
+	<stdio.h>
+	<stdlib.h>
+

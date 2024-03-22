@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1691882917 source:c:\users\senol\desktop\c\21-alistirma_10_kelimesayibul\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

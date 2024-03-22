@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1692733793 source:c:\users\senol\desktop\c\31-alistirma_20_siralama_fonk\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1692025377 source:c:\users\senol\desktop\c\26-alistirma_15\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

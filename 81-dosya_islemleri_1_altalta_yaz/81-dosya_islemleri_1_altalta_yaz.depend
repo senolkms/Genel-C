@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1693745203 source:c:\users\senol\desktop\c\81-dosya_islemleri_1_altalta_yaz\main.c
+	<stdio.h>
+	<stdlib.h>
+

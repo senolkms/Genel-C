@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1692795624 source:c:\users\senol\desktop\c\37-alistirma_26_seri_deger_top_fonk\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

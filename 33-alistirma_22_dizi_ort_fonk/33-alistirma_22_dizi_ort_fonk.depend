@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1692786678 source:c:\users\senol\desktop\c\33-alistirma_22_dizi_ort_fonk\main.c
+	<stdio.h>
+	<stdlib.h>
+

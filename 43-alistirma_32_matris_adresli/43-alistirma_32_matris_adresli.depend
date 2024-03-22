@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1692901925 source:c:\users\senol\desktop\c\43-alistirma_32_matris_adresli\main.c
+	<stdio.h>
+	<stdlib.h>
+

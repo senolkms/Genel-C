@@ -1,0 +1,11 @@
+Adsoyad:senol kumas
+ Ders:matematik
+ Vize1:50
+ Vize2:90
+ Final:60
+ Ortalama:64Adsoyad:yigit sikbas
+ Ders:billab
+ Vize1:20
+ Vize2:30
+ Final:50
+ Ortalama:40

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1692886950 source:c:\users\senol\desktop\c\42-alistirma_31_karakter_dizisi_adresli\main.c
+	<stdio.h>
+	<stdlib.h>
+
